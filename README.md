@@ -1,6 +1,26 @@
 # Password Strength Calculator
 
-[TODO. There will be project description]
+The program asks user for the password, evaluate its strength and prints the score.
+
+# Requirements 
+
+Python 3.5
+
+# Quickstart
+
+Clone project from github and start it from concole:
+
+```bash
+python password_strength.py
+```
+```bash
+Enter your password: 
+```
+# Output example
+
+Password strength:
+
+10
 
 # Project Goals
 
